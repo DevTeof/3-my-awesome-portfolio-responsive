@@ -62,6 +62,10 @@ header {
     line-height: 27px;
     padding-bottom: 60px;
   }
+
+  img {
+    justify-self: center;
+  }
 }
 
 .logo-section {
@@ -128,6 +132,7 @@ header {
 .latest-work-section {
   padding-top: 40px;
   padding-bottom: 40px;
+  justify-items: center;
 
   h2 {
     padding-bottom: 60px;
